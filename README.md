@@ -1,4 +1,4 @@
-# Autonomous Box Sorting Robot 🤖📦
+# Autonomous Box Sorting Robot 
 
 An autonomous robotic box sorting system built with **ROS 2 (Humble)**. The system features a custom mobile manipulator robot equipped with a differential-drive base, push blade, 4-DOF robotic arm, and parallel gripper with linear guide rails. It autonomously detects, navigates to, classifies, grips, transports, and dispatches incoming warehouse boxes into designated sorting bins in an enclosed factory yard.
 
